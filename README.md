@@ -6,6 +6,5 @@
 
 [RF](https://colab.research.google.com/drive/1oeypEggwEUbzmI--fJUSaC7gHuS5bXsy?usp=sharing)
 
-[MLP]
 
 [Compare Models](https://colab.research.google.com/drive/1u59clz8vfmTvrCxtAEoAH7RKx-axAM_G?usp=sharing)
