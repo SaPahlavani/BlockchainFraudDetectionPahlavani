@@ -20,9 +20,9 @@
 
 [Logistic-Regression](https://colab.research.google.com/drive/1kEKLMioYrJc4fDrZsiIU2DneKKhCx14s?usp=sharing)
 
-[Light-GBM]()
+[Light-GBM](https://colab.research.google.com/drive/1DqPaONeLO2JDx1IjKgZ_44uMBT9s2BQ-?usp=sharing)
 
-[ExtraTrees]()
+[ExtraTrees](https://colab.research.google.com/drive/1KKX8hy4yhzyqFtiyFGtLrjCfqO2aOOWU?usp=sharing)
 
 [K-Means]()
 
