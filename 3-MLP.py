@@ -66,6 +66,7 @@ nn_cm_list = []
 for train_index, test_index in kf.split(X):
     X_train, X_test = X.iloc[train_index], X.iloc[test_index]
     y_train, y_test = y.iloc[train_index], y.iloc[test_index]
+    scaler = StandardScaler().fit(X_train)
     X_train = scaler.transform(X_train)
     X_test =  scaler.transform(X_test)
     nn_model.fit(X_train, y_train)
