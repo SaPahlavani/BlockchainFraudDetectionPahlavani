@@ -28,7 +28,11 @@
 
 
 [Compare Models](https://colab.research.google.com/drive/1u59clz8vfmTvrCxtAEoAH7RKx-axAM_G?usp=sharing)
+
 # Fraud Detection Tron:
+
 [TronDataset](#)
+
 [TronCleaning](#)
+
 [TronTransferModel](#)
