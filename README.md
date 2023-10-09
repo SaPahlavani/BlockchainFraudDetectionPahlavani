@@ -16,19 +16,9 @@
 
 [SVM](https://colab.research.google.com/drive/1IvdFpsM7oj2WnjxMnwIv5MeJ-zxGBa8k?usp=sharing)
 
-[Naïve Bayes](https://colab.research.google.com/drive/113CanS1r3edf-ktpJEggMsN7ixG8sxbM?usp=sharing)
-
-[Logistic-Regression](https://colab.research.google.com/drive/1kEKLMioYrJc4fDrZsiIU2DneKKhCx14s?usp=sharing)
-
-[Light-GBM](https://colab.research.google.com/drive/1DqPaONeLO2JDx1IjKgZ_44uMBT9s2BQ-?usp=sharing)
-
 [ExtraTrees](https://colab.research.google.com/drive/1KKX8hy4yhzyqFtiyFGtLrjCfqO2aOOWU?usp=sharing)
 
-[K-Means](https://colab.research.google.com/drive/1B1WM3BSqUfhuTo_sw0BwKOq3SWamaYNy?usp=sharing)
-
-
-[Compare Models](https://colab.research.google.com/drive/1u59clz8vfmTvrCxtAEoAH7RKx-axAM_G?usp=sharing)
-
+[EnsembleModel]
 # Fraud Detection Tron:
 
 [TronDataset](#)
