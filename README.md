@@ -20,13 +20,6 @@
 
 [SavedMLPModel]()
 
-[SVM](https://colab.research.google.com/drive/1IvdFpsM7oj2WnjxMnwIv5MeJ-zxGBa8k?usp=sharing)
-
-[SavedSVMModel]()
-
-[ExtraTrees](https://colab.research.google.com/drive/1KKX8hy4yhzyqFtiyFGtLrjCfqO2aOOWU?usp=sharing)
-
-[SavedExtraTreesModel]()
 
 [EnsembleModel](https://colab.research.google.com/drive/1FfNBEmdADU9PQWxE55YMVeO3T6r60pQK?usp=sharing)
 
